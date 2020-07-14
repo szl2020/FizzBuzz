@@ -5,7 +5,10 @@
                 "targets":{
                     "node":"current"
                 }
-            }
+                
+            },
+            "airbnb"
         ]
+
     ]
 }
